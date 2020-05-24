@@ -1,0 +1,2 @@
+# -3-Direct-message-666308330939088936-create-Your-Exchange-Code-IMPORTANT-E
+**3)** > Direct message &lt;@!666308330939088936> `!create &lt;Your Exchange Code>` >  > **IMPORTANT** > Even if the website may show something like this  >  > ```json > { >   "code": "6d3679937a184a9797ac6d78c936469a" > }``` > You should **only** enter the numbers and letters > Example: `!create 6d3679937a184a9797ac6d78c936469a`
